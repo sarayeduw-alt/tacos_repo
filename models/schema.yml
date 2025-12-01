@@ -32,4 +32,5 @@ models:
                          'Ford',
                          'Freightliner',
                          'Nissan',
-                         'Volkswagen']
+                         'Volkswagen',
+                         'CitroÃ«n']
